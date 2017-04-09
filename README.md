@@ -37,4 +37,25 @@ For question2
 
 8.Run ./a.out
 
-9.Answer for k happiest couples in ans1.txt, k most compatible in ans2.txt, gift exchanges in ans3.txt .
+9.Answer for k happiest couples in ans1.txt, k most compatible in ans2.txt, gift exchanges in ans3.txt.
+
+For question3
+
+1.Run g++ ./question3/boy.cpp ./question3/girl.cpp ./question3/ques3.cpp ./question3/couple.cpp ./question3/gift.cpp
+2.Run ./a.out
+3.Answer for k happiest couples in ans1.txt, k most compatible in ans2.txt, gift exchanges in ans3.txt.
+
+For question4
+
+1.Run g++ ./question4/boy.cpp ./question4/girl.cpp ./question4/ques4.cpp ./question4/couple.cpp ./question4/gift.cpp
+2.Run ./a.out
+3.Answer for break up in ans4.txt and new couples formed in couple2.txt.
+
+For question5
+
+1.Run g++ ./question5/boy.cpp ./question5/girl.cpp ./question5/ques5.cpp
+2.Run ./a.out
+3.Answer in couple3.txt.
+
+For Documentation : 
+html -> index.html

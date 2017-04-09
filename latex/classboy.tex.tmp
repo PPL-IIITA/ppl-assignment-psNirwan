@@ -1,0 +1,158 @@
+\hypertarget{classboy}{}\section{boy Class Reference}
+\label{classboy}\index{boy@{boy}}
+
+
+class boy.  
+
+
+
+
+{\ttfamily \#include $<$boy.\+h$>$}
+
+
+
+Inheritance diagram for boy\+:
+% FIG 0
+\subsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+void \hyperlink{classboy_a5cac68eb26882c062292f1d0107c56a7}{set\+Name} (char\mbox{[}$\,$\mbox{]})
+\item 
+void \hyperlink{classboy_a97f0db302fe7af4f96865b7cf101e882}{set\+Attractiveness} (int)
+\item 
+void \hyperlink{classboy_ac30638dc34282b9e3c2184c17c3747a4}{set\+Intelligence} (int)
+\item 
+void \hyperlink{classboy_aaf145f49ec525b3a66a9803ce8cf07c4}{set\+Budget} (int)
+\item 
+void \hyperlink{classboy_ae3699c3721a626f4dc87efb8aad5752e}{set\+Committed} (int)
+\item 
+void \hyperlink{classboy_abc7905e52c7295ea402c2a221c14ebf2}{set\+Minattr} (int)
+\item 
+void \hyperlink{classboy_a7e7af130f5dae098e9cc5b7f20cb5e0d}{set\+Type} (int)
+\item 
+char $\ast$ \hyperlink{classboy_ab4846ea18798774bfd16460be809ff17}{get\+Name} ()
+\item 
+int \hyperlink{classboy_abb2586064d9722b64d647c075a6f390f}{get\+Attractiveness} ()
+\item 
+int \hyperlink{classboy_aab8dec2f511ed29e45b1fbc438662d0c}{get\+Intelligence} ()
+\item 
+int \hyperlink{classboy_ac0849bf5329cd663c1d07129da665595}{get\+Budget} ()
+\item 
+int \hyperlink{classboy_a8760a6bc4bebed36e4e0d5a30d8be2c6}{get\+Minattr} ()
+\item 
+int \hyperlink{classboy_ae815b655ab544911454bb845c49f82a0}{is\+Committed} ()
+\item 
+int \hyperlink{classboy_a4c158b635602c2e4364164b40d86a175}{get\+Type} ()
+\end{DoxyCompactItemize}
+
+
+\subsection{Detailed Description}
+class boy. 
+
+class to define various attributes of boys 
+
+\subsection{Member Function Documentation}
+\index{boy@{boy}!get\+Attractiveness@{get\+Attractiveness}}
+\index{get\+Attractiveness@{get\+Attractiveness}!boy@{boy}}
+\subsubsection[{\texorpdfstring{get\+Attractiveness()}{getAttractiveness()}}]{\setlength{\rightskip}{0pt plus 5cm}int boy\+::get\+Attractiveness (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)}\hypertarget{classboy_abb2586064d9722b64d647c075a6f390f}{}\label{classboy_abb2586064d9722b64d647c075a6f390f}
+getter function for attractiveness \index{boy@{boy}!get\+Budget@{get\+Budget}}
+\index{get\+Budget@{get\+Budget}!boy@{boy}}
+\subsubsection[{\texorpdfstring{get\+Budget()}{getBudget()}}]{\setlength{\rightskip}{0pt plus 5cm}int boy\+::get\+Budget (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)}\hypertarget{classboy_ac0849bf5329cd663c1d07129da665595}{}\label{classboy_ac0849bf5329cd663c1d07129da665595}
+getter function for budget \index{boy@{boy}!get\+Intelligence@{get\+Intelligence}}
+\index{get\+Intelligence@{get\+Intelligence}!boy@{boy}}
+\subsubsection[{\texorpdfstring{get\+Intelligence()}{getIntelligence()}}]{\setlength{\rightskip}{0pt plus 5cm}int boy\+::get\+Intelligence (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)}\hypertarget{classboy_aab8dec2f511ed29e45b1fbc438662d0c}{}\label{classboy_aab8dec2f511ed29e45b1fbc438662d0c}
+getter function for intelligence \index{boy@{boy}!get\+Minattr@{get\+Minattr}}
+\index{get\+Minattr@{get\+Minattr}!boy@{boy}}
+\subsubsection[{\texorpdfstring{get\+Minattr()}{getMinattr()}}]{\setlength{\rightskip}{0pt plus 5cm}int boy\+::get\+Minattr (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)}\hypertarget{classboy_a8760a6bc4bebed36e4e0d5a30d8be2c6}{}\label{classboy_a8760a6bc4bebed36e4e0d5a30d8be2c6}
+getter function for min attraction \index{boy@{boy}!get\+Name@{get\+Name}}
+\index{get\+Name@{get\+Name}!boy@{boy}}
+\subsubsection[{\texorpdfstring{get\+Name()}{getName()}}]{\setlength{\rightskip}{0pt plus 5cm}char $\ast$ boy\+::get\+Name (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)}\hypertarget{classboy_ab4846ea18798774bfd16460be809ff17}{}\label{classboy_ab4846ea18798774bfd16460be809ff17}
+getter function for name \index{boy@{boy}!get\+Type@{get\+Type}}
+\index{get\+Type@{get\+Type}!boy@{boy}}
+\subsubsection[{\texorpdfstring{get\+Type()}{getType()}}]{\setlength{\rightskip}{0pt plus 5cm}int boy\+::get\+Type (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)}\hypertarget{classboy_a4c158b635602c2e4364164b40d86a175}{}\label{classboy_a4c158b635602c2e4364164b40d86a175}
+getter function for type \index{boy@{boy}!is\+Committed@{is\+Committed}}
+\index{is\+Committed@{is\+Committed}!boy@{boy}}
+\subsubsection[{\texorpdfstring{is\+Committed()}{isCommitted()}}]{\setlength{\rightskip}{0pt plus 5cm}int boy\+::is\+Committed (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)}\hypertarget{classboy_ae815b655ab544911454bb845c49f82a0}{}\label{classboy_ae815b655ab544911454bb845c49f82a0}
+getter function for committed \index{boy@{boy}!set\+Attractiveness@{set\+Attractiveness}}
+\index{set\+Attractiveness@{set\+Attractiveness}!boy@{boy}}
+\subsubsection[{\texorpdfstring{set\+Attractiveness(int)}{setAttractiveness(int)}}]{\setlength{\rightskip}{0pt plus 5cm}void boy\+::set\+Attractiveness (
+\begin{DoxyParamCaption}
+\item[{int}]{a}
+\end{DoxyParamCaption}
+)}\hypertarget{classboy_a97f0db302fe7af4f96865b7cf101e882}{}\label{classboy_a97f0db302fe7af4f96865b7cf101e882}
+setter function for attractiveness \index{boy@{boy}!set\+Budget@{set\+Budget}}
+\index{set\+Budget@{set\+Budget}!boy@{boy}}
+\subsubsection[{\texorpdfstring{set\+Budget(int)}{setBudget(int)}}]{\setlength{\rightskip}{0pt plus 5cm}void boy\+::set\+Budget (
+\begin{DoxyParamCaption}
+\item[{int}]{b}
+\end{DoxyParamCaption}
+)}\hypertarget{classboy_aaf145f49ec525b3a66a9803ce8cf07c4}{}\label{classboy_aaf145f49ec525b3a66a9803ce8cf07c4}
+setter function for budget \index{boy@{boy}!set\+Committed@{set\+Committed}}
+\index{set\+Committed@{set\+Committed}!boy@{boy}}
+\subsubsection[{\texorpdfstring{set\+Committed(int)}{setCommitted(int)}}]{\setlength{\rightskip}{0pt plus 5cm}void boy\+::set\+Committed (
+\begin{DoxyParamCaption}
+\item[{int}]{x}
+\end{DoxyParamCaption}
+)}\hypertarget{classboy_ae3699c3721a626f4dc87efb8aad5752e}{}\label{classboy_ae3699c3721a626f4dc87efb8aad5752e}
+setter function for committed \index{boy@{boy}!set\+Intelligence@{set\+Intelligence}}
+\index{set\+Intelligence@{set\+Intelligence}!boy@{boy}}
+\subsubsection[{\texorpdfstring{set\+Intelligence(int)}{setIntelligence(int)}}]{\setlength{\rightskip}{0pt plus 5cm}void boy\+::set\+Intelligence (
+\begin{DoxyParamCaption}
+\item[{int}]{i}
+\end{DoxyParamCaption}
+)}\hypertarget{classboy_ac30638dc34282b9e3c2184c17c3747a4}{}\label{classboy_ac30638dc34282b9e3c2184c17c3747a4}
+setter function for intelligence \index{boy@{boy}!set\+Minattr@{set\+Minattr}}
+\index{set\+Minattr@{set\+Minattr}!boy@{boy}}
+\subsubsection[{\texorpdfstring{set\+Minattr(int)}{setMinattr(int)}}]{\setlength{\rightskip}{0pt plus 5cm}void boy\+::set\+Minattr (
+\begin{DoxyParamCaption}
+\item[{int}]{m}
+\end{DoxyParamCaption}
+)}\hypertarget{classboy_abc7905e52c7295ea402c2a221c14ebf2}{}\label{classboy_abc7905e52c7295ea402c2a221c14ebf2}
+setter function for min attraction \index{boy@{boy}!set\+Name@{set\+Name}}
+\index{set\+Name@{set\+Name}!boy@{boy}}
+\subsubsection[{\texorpdfstring{set\+Name(char[])}{setName(char[])}}]{\setlength{\rightskip}{0pt plus 5cm}void boy\+::set\+Name (
+\begin{DoxyParamCaption}
+\item[{char}]{str\mbox{[}$\,$\mbox{]}}
+\end{DoxyParamCaption}
+)}\hypertarget{classboy_a5cac68eb26882c062292f1d0107c56a7}{}\label{classboy_a5cac68eb26882c062292f1d0107c56a7}
+setter function for name \index{boy@{boy}!set\+Type@{set\+Type}}
+\index{set\+Type@{set\+Type}!boy@{boy}}
+\subsubsection[{\texorpdfstring{set\+Type(int)}{setType(int)}}]{\setlength{\rightskip}{0pt plus 5cm}void boy\+::set\+Type (
+\begin{DoxyParamCaption}
+\item[{int}]{t}
+\end{DoxyParamCaption}
+)}\hypertarget{classboy_a7e7af130f5dae098e9cc5b7f20cb5e0d}{}\label{classboy_a7e7af130f5dae098e9cc5b7f20cb5e0d}
+setter function for type 
+
+The documentation for this class was generated from the following files\+:\begin{DoxyCompactItemize}
+\item 
+boy.\+h\item 
+boy.\+cpp\end{DoxyCompactItemize}
